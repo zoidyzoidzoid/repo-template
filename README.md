@@ -18,6 +18,7 @@
         - [Citizen Code of Conduct](http://citizencodeofconduct.org/)
         - [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/)
     - [Yeoman CoC](https://github.com/yeoman/yeoman/blob/master/code-of-conduct.md)
+    - [Digital Ocean Engineering CoC](https://github.com/digitalocean/engineering-code-of-conduct)
 
 ## Things it probably shouldn't have
 
